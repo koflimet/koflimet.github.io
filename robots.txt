@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://koflimet.github.io/sitemap.html.gz
+Sitemap: https://koflimet.github.io/app/sitemap.html.gz
+Sitemap: https://koflimet.github.io/assets/sitemap.html.gz
+Sitemap: https://koflimet.github.io/css/sitemap.html.gz
+Sitemap: https://koflimet.github.io/data/sitemap.html.gz
+Sitemap: https://koflimet.github.io/includes/sitemap.html.gz
+Sitemap: https://koflimet.github.io/item/sitemap.html.gz
+Sitemap: https://koflimet.github.io/src/sitemap.html.gz
